@@ -1,1 +1,1 @@
-<img alt="screenshot" src="README.png" />
+<img alt="screenshot" src="assets/snapshot.png" />
